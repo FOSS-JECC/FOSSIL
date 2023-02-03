@@ -1,4 +1,4 @@
-![FOSSIL Banner](img/FOSSIL-banner.png)
+![FOSSIL Banner](img/FOSSIL-banner.gif)
 
 
 # FOSSIL(Free and Open Source Software Interactive Learning) 
