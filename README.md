@@ -1,4 +1,4 @@
-![FOSSIL Banner](img/FOSSIL-banner.gif)
+![FOSSIL Banner](https://github.com/FOSS-JECC/FOSSIL/blob/main/img/FOSSIL-banner.gif)
 
 
 # FOSSIL(Free and Open Source Software Interactive Learning) 
