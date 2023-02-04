@@ -16,11 +16,11 @@
 
 ### Websites
 
-FreeCodeCamp
-Sololearn
-The Odin Project
-Scrimba
-Egg Head
-Kaggle
+- [FreeCodeCamp](https://www.freecodecamp.org)
+- [Sololearn](https://www.sololearn.com)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Scrimba](https://scrimba.com/)
+- [Egg Head](https://egghead.io/)
+- [Kaggle](https://www.kaggle.com/)
 
 ### Other Resources
