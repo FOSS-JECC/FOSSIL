@@ -8,10 +8,23 @@
 **FOSSIL** (Free and Open Source Software Interactive Learning) is an initiative by the FOSS club of Jyothi to conduct a one day interactive program and a contest for students to learn more about programming and other related skills for their personal growth.  This would be a better opportunity for the students to upskill their knowledge.  
 
 
-## Resources to learn more about FOSS
+## Resources for learning
 
 ### Youtube and Odysee Channels
 
+FreeCodeCamp
+Kevin Powell
+Net Ninja
+Brototype Malayalam
+
+
 ### Websites
+
+FreeCodeCamp
+Sololearn
+The Odin Project
+Scrimba
+Egg Head
+Kaggle
 
 ### Other Resources
